@@ -1,0 +1,30 @@
+aside{
+  left:-210px;
+  top:0;
+  float: left;
+  width:200px;
+  background:green;
+  margin-left: -100%;
+  position: relative;
+  margin-bottom:10px;
+}
+main{
+    float:left;
+    width:100%;
+    background:blue;
+}
+footer{
+    background: yellow;
+    height: 50px;
+    clear: both;
+
+}
+header{
+    height:50px;
+    background:red;
+    margin-bottom: 10px;
+}
+#content{
+    padding-left: 210px;
+    margin-bottom: 10px;
+}
